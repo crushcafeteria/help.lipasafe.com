@@ -6,6 +6,9 @@ pages:
         - 'What is escrow?': 'overview/what-is-escrow.md'
         - 'How does LipaSafe work?': 'overview/how-it-works.md'
 
+    - Accounts:
+            - 'Signing up': 'accounts/signing-up.md'
+
 theme:
     name: 'material'
     logo: 'images/logo.png'
