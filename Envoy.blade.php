@@ -9,6 +9,7 @@ pull-to-live
 {{--Push local changes to remote Git repo--}}
 @task('push-to-git', ['on'=>'local'])
 cd /var/www/html/help.lipasafe.dev
+mkdocs build --clean
 git add .
 git commit -m "This is an automated deployment"
 git push -u origin master
@@ -19,5 +20,4 @@ git push -u origin master
 cd /var/www/help.lipasafe.com
 git fetch --all
 git reset --hard origin/master
-mkdocs build --clean
 @endtask
