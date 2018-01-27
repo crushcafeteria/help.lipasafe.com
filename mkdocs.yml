@@ -1,7 +1,7 @@
 site_name: LipaSafe Help Center
 
 pages:
-    - Home: 'overview/what-is-escrow.md'
+    - Home: 'index.md'
     - Overview:
         - 'How does online escrow work?': 'overview/what-is-escrow.md'
 
