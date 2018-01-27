@@ -1,3 +1,16 @@
 site_name: LipaSafe Help Center
+
+pages:
+    - Overview:
+        - 'How does online escrow work?': 'overview/what-is-escrow.md'
+
 theme:
-  name: 'material'
+    name: 'material'
+    logo: 'images/logo.png'
+    font:
+        text: 'Work Sans'
+        code: 'Ubuntu Mono'
+
+    palette:
+        primary: 'indigo'
+        accent: 'light green'
