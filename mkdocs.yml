@@ -1,17 +1,22 @@
 site_name: LipaSafe Help Center
 
 pages:
-    - Home: 'index.md'
+    - Home: 'index.html'
     - Overview:
         - 'What is escrow?': 'overview/what-is-escrow.md'
         - 'How does LipaSafe work?': 'overview/how-it-works.md'
 
     - Accounts:
             - 'Signing up': 'accounts/signing-up.md'
+            - 'Logging in': 'accounts/logging-in.md'
+            - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
+            - 'Recover your account': 'accounts/reset-your-account.md'
 
 theme:
     name: 'material'
+    custom_dir: 'theme'
     logo: 'images/logo.png'
+    favicon: 'images/logo.png'
     font:
         text: 'Work Sans'
         code: 'Ubuntu Mono'
@@ -19,3 +24,16 @@ theme:
     palette:
         primary: 'indigo'
         accent: 'light green'
+
+    feature:
+        tabs: true
+
+extra_css:
+    - 'stylesheets/extra.css'
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - toc:
+        permalink: true
+
