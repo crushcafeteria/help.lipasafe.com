@@ -5,12 +5,41 @@ pages:
     - Overview:
         - 'What is escrow?': 'overview/what-is-escrow.md'
         - 'How does LipaSafe work?': 'overview/how-it-works.md'
+#        - 'Flow of funds': 'overview/funds-flow.md'
 
     - Accounts:
             - 'Signing up': 'accounts/signing-up.md'
             - 'Logging in': 'accounts/logging-in.md'
             - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
             - 'Recover your account': 'accounts/reset-your-account.md'
+    - Getting Around:
+            - 'Depositing funds with M-PESA': 'getting-around/depositing-a-payment.md'
+#            - 'Understanding a transaction': 'accounts/signing-up.md'
+#            - 'A tour of the dashboard': 'accounts/signing-up.md'
+#            - 'Starting a transaction': 'accounts/logging-in.md'
+#            - 'Accepting a transaction': 'accounts/logging-in.md'
+#            - 'Depositing funds with M-PESA': 'accounts/logging-in.md'
+#            - 'How to monitor a transaction': 'accounts/logging-in.md'
+#            - 'Shipping and delivery': 'accounts/logging-in.md'
+#            - 'Autorizing payment': 'accounts/logging-in.md'
+#            - 'Cancellations and refunds': 'accounts/logging-in.md'
+#
+#    - Security Center:
+#            - 'Protecting your LipaSafe account': ''
+#            - 'Password Recommendations': 'accounts/reporting-security-issues.md'
+#            - 'Reporting fraud': 'accounts/logging-in.md'
+#            - 'Reporting security issues': 'accounts/reporting-security-issues.md'
+#
+#    - Dispute Resolution:
+#            - 'What is a dispute?': 'accounts/logging-in.md'
+#            - 'What causes dispute?': 'accounts/logging-in.md'
+#            - 'Minimizing risk of dispute': 'accounts/logging-in.md'
+#            - 'Preparing for dispute resolution': 'accounts/logging-in.md'
+#            - 'The dispute resolution process': 'accounts/logging-in.md'
+
+    - Legal:
+            - 'Contact Information': 'legal/contacts.md'
+            - 'Privacy Policy': 'legal/privacy-policy.md'
 
 theme:
     name: 'material'
@@ -25,8 +54,8 @@ theme:
         primary: 'indigo'
         accent: 'light green'
 
-    feature:
-        tabs: true
+#    feature:
+#        tabs: true
 
 extra_css:
     - 'stylesheets/extra.css'
