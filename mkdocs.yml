@@ -14,9 +14,9 @@ pages:
             - 'Recover your account': 'accounts/reset-your-account.md'
     - Getting Around:
             - 'A tour of the dashboard': 'getting-around/a-tour-of-the-dashboard.md'
+            - 'Creating a transaction': 'getting-around/creating-a-transaction.md'
             - 'Depositing funds with M-PESA': 'getting-around/depositing-a-payment.md'
 #            - 'Understanding a transaction': 'accounts/signing-up.md'
-#            - 'Starting a transaction': 'accounts/logging-in.md'
 #            - 'Accepting a transaction': 'accounts/logging-in.md'
 #            - 'Depositing funds with M-PESA': 'accounts/logging-in.md'
 #            - 'How to monitor a transaction': 'accounts/logging-in.md'
@@ -24,8 +24,8 @@ pages:
 #            - 'Autorizing payment': 'accounts/logging-in.md'
 #            - 'Cancellations and refunds': 'accounts/logging-in.md'
 #
-#    - Security Center:
-#            - 'Protecting your LipaSafe account': ''
+    - Security Center:
+            - 'Safety tips': 'legal/stay-safe.md'
 #            - 'Password Recommendations': 'accounts/reporting-security-issues.md'
 #            - 'Reporting fraud': 'accounts/logging-in.md'
 #            - 'Reporting security issues': 'accounts/reporting-security-issues.md'

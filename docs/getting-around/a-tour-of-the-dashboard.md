@@ -4,7 +4,7 @@ After successfully logging in, you will be presented with the **Dashboard**. Und
 ![The Dashboard](../images/dashboard.png)
 
 > #### 1: Start a transaction
-> Click here to start at new transaction
+> Click here to start at new transaction. [Click here](creating-a-transaction.md) to learn how to create a LipaSafe transaction.
 > #### 2: Transaction filters
 > Once you have several transactions in different states, you want a way to sort the list without breaking much sweat. Transaction filters to the rescue! You can now sort transactions based on their status(pending / progressing / cancelled / unaccepted) or type (purchase / sale
 > #### 3: Navigation bar
