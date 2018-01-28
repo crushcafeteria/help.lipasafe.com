@@ -10,7 +10,11 @@ We are happy to help. Please get in touch with us on the following channels:-
         <td>0741 504 000</td>
     </tr>
     <tr>
-        <th>Email</th>
+        <th>General Communication</th>
+        <td>hello@lipasafe.com</td>
+    </tr>
+    <tr>
+        <th>Customer Care Email</th>
         <td>care@lipasafe.com</td>
     </tr>
     <tr>

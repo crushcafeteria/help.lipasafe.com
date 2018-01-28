@@ -1,10 +1,10 @@
-## Sign up with registration form
+# Sign up with registration form
 1. Visit the [registration page](https://lipasafe.com/join) on our website
 2. Fill the simple form
 3. Click the green **Continue**
 4. Login with your newly created account.
 
-## Sign up with with Facebook
+# Sign up with with Facebook
 If you control a Facebook account, signing up on LipaSafe is simple.
 
 1. Visit the [registration page](https://lipasafe.com/join) on our website
@@ -15,7 +15,7 @@ If you control a Facebook account, signing up on LipaSafe is simple.
 
 > If you register with Facebook, you do not need to verify your email address. You will have to verify your Safaricom number though
 
-## Verifying your mobile number
+# Verifying your mobile number
 If you are logging in for the first time, you MUST verify your number to ensure we can deliver notifications to you. 
 
 1. Click **Start Verification** to receive a secret code via SMS
@@ -24,7 +24,7 @@ If you are logging in for the first time, you MUST verify your number to ensure 
 
 > To be able to receive payments with M-PESA, please use a registered Safaricom M-PESA number. 
 
-## Verifying your email
+# Verifying your email
 When you register your account, an activation email is sent to your email address. 
 
 1. Login to the email address you used to register your LipaSafe account
