@@ -1,10 +1,10 @@
-# Sign up with registration form
+# Signing up with registration form
 1. Visit the [registration page](https://lipasafe.com/join) on our website
 2. Fill the simple form
 3. Click the green **Continue**
 4. Login with your newly created account.
 
-# Sign up with with Facebook
+# Signing up with with Facebook
 If you control a Facebook account, signing up on LipaSafe is simple.
 
 1. Visit the [registration page](https://lipasafe.com/join) on our website
