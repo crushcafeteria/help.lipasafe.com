@@ -13,9 +13,9 @@ pages:
             - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
             - 'Recover your account': 'accounts/reset-your-account.md'
     - Getting Around:
+            - 'A tour of the dashboard': 'getting-around/a-tour-of-the-dashboard.md'
             - 'Depositing funds with M-PESA': 'getting-around/depositing-a-payment.md'
 #            - 'Understanding a transaction': 'accounts/signing-up.md'
-#            - 'A tour of the dashboard': 'accounts/signing-up.md'
 #            - 'Starting a transaction': 'accounts/logging-in.md'
 #            - 'Accepting a transaction': 'accounts/logging-in.md'
 #            - 'Depositing funds with M-PESA': 'accounts/logging-in.md'
