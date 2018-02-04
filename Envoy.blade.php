@@ -20,4 +20,5 @@ cd /var/www/help.lipasafe.com
 git fetch --all
 git reset --hard origin/master
 mkdocs build --clean
+cp landing.html site/landing.html
 @endtask
