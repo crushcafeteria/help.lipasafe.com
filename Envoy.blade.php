@@ -20,5 +20,5 @@ cd /var/www/help.lipasafe.com
 git fetch --all
 git reset --hard origin/master
 mkdocs build --clean
-cp extras/* site/images/
+cp -R extras site/images
 @endtask
