@@ -2,28 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": ".rIframe {\n        position: relative;\n        height: 0;\n        overflow: hidden;\n        padding-bottom: 100%;\n    }\n\n    .rIframe iframe {\n        position: absolute;\n        top: 0;\n        left: 0;\n        width: 100%;\n        height: 100%;\n    }", 
             "title": "Home"
-        }, 
-        {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
         }, 
         {
             "location": "/overview/what-is-escrow/", 
             "text": "What is escrow?\n\n\nAn escrow is a financial arrangement where a trusted third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are satisfied.\n\n\n\n\nAn Real World Example\n\n\nLet us see a real-life example of escrow at work.\n\n\nNjoki visits an ad-listing website seeking to purchase a used laptop. To understand how risky this purchase can be, lets analyze Njoki's next steps:-\n\n\n\n\n\n\nShe does not know the actual condition of the used laptop\n\n\nShe is worried the laptop might be stolen property (very very bad)\n\n\nShe has no way of returning the product in case it is defective\n\n\nIt is unsafe to carry large amounts of money to a stranger's meeting\n\n\nShe cannot warn other buyers in case the seller is dishonest\n\n\n\n\n\n\nShe  then notices the seller can accept escrow payments, so she sets up an escrow transaction, orders the laptop and requests for delivery to her residence. Upon delivery of the laptop, she unboxes it, inspects its condition and specifications before authorizing payment to the seller. Now, lets analyze these new developments once more and see how things have changed:-\n\n\n\n\n\n\nShe can now verify the condition of the laptop before paying for it\n\n\nThe laptop is conveniently delivered to her doorstep\n\n\nShe accessed a large sum of cash without visiting a bank teller / ATM\n\n\nShe is able to access the seller's information in case of any issues with the purchase e.g. defectiveness, counterfeit brands or criminal incidences\n    She is able to review the seller and share her experience with other buyers\n\n\n\n\n\n\nYou can read more \non Wikipedia", 
-            "title": "How does online escrow work?"
+            "title": "What is escrow?"
         }, 
         {
             "location": "/overview/what-is-escrow/#what-is-escrow", 
@@ -34,6 +19,296 @@
             "location": "/overview/what-is-escrow/#an-real-world-example", 
             "text": "Let us see a real-life example of escrow at work.  Njoki visits an ad-listing website seeking to purchase a used laptop. To understand how risky this purchase can be, lets analyze Njoki's next steps:-    She does not know the actual condition of the used laptop  She is worried the laptop might be stolen property (very very bad)  She has no way of returning the product in case it is defective  It is unsafe to carry large amounts of money to a stranger's meeting  She cannot warn other buyers in case the seller is dishonest    She  then notices the seller can accept escrow payments, so she sets up an escrow transaction, orders the laptop and requests for delivery to her residence. Upon delivery of the laptop, she unboxes it, inspects its condition and specifications before authorizing payment to the seller. Now, lets analyze these new developments once more and see how things have changed:-    She can now verify the condition of the laptop before paying for it  The laptop is conveniently delivered to her doorstep  She accessed a large sum of cash without visiting a bank teller / ATM  She is able to access the seller's information in case of any issues with the purchase e.g. defectiveness, counterfeit brands or criminal incidences\n    She is able to review the seller and share her experience with other buyers    You can read more  on Wikipedia", 
             "title": "An Real World Example"
+        }, 
+        {
+            "location": "/overview/how-it-works/", 
+            "text": "How does LipaSafe work?\n\n\nLipaSafe protects buyers and sellers online. Buyers can confidently purchase items from Internet vendors with minimal risk.\n\n\n\n\nStep 1: Contact the seller\n\n\n\n\nThe buyer makes contact with the seller and confirms the product/service can be supplied and the seller can accept LipaSafe transactions.\n\n\n\n\nStep 2: Start a transaction\n\n\n\n\nThe buyer will start a LipaSafe transaction by entering essential details about the deal. \n\n\nOn saving the transaction, an escrow account will be created to facilitate the transaction between the buyer and the seller. \n\n\nThe buyer can deposit into the escrow account with M-PESA as soon as the seller accepts the transaction/deal.\n\n\n\n\nStep 3: Alert seller\n\n\n\n\nLipaSafe will notify the seller of the buyer's intent to purchase. The seller will review the transaction to make sure it matches the verbal agreement.\n\n\n\n\nStep 4: Accept deal\n\n\n\n\nIf the transaction matches the verbal agreement, the seller will login to their LipaSafe account and accept the buyer's transaction/deal.\n\n\n\n\nStep 5 \n 6: Deposit funds\n\n\n\n\nOnce the seller accepts the deal, the buyer will be notified to deposit the agreed amount into the transaction account with Lipa na M-PESA.\n\n\nThe buyer will deposit the agreed amount into the transaction using Lipa Na M-PESA. LipaSafe will keep monitoring the deposits to the transaction and ensure the full amount is deposited before moving the transaction forward.\n\n\nOnce money has been deposited from a transaction, it cannot be withdrawn by the buyer when the deal is in progress.\n\n\n\n\nStep 7: Delivery / supply\n\n\n\n\nOnce the full amount is deposited into the transaction, LipaSafe will send notify the seller their payment has been locked in. They can now deliver the product/service with confidence that they will get paid on time. \n\n\n\n\nStep 8: Optional shipping\n\n\n\n\nIf the buyer chooses to deliver to their location, extra shipping information MUST be provided. Shipping will have an extra cost implication which will be added to the total value of the deal.\n\n\n\n\nStep 9: Inspection\n\n\n\n\nThe buyer will inspect the product/service to ensure it is upto the expected standard. Once inspection is passed, the buyer will authorize payment to be made to the seller's M-PESA number.\n\n\n\n\nStep 10: Release funds\n\n\n\n\nLipaSafe will release the locked funds to the seller via M-PESA. \n\n\n\n\nStep 11: Review process\n\n\n\n\nAfter each transaction, both the buyer and seller have to review the completed transaction. This step is a part of our defense protocol to create intelligence that can be reliably used to identify honest sellers from the crooks. Our main goal is to create honest e-commerce and a great service for you\n\n\n\n\nAll notifications from LipaSafe are be delivered via SMS and email.\n\n\n\n\nAll payments into LipaSafe are made via Lipa Na M-PESA til number 599 229", 
+            "title": "How does LipaSafe work?"
+        }, 
+        {
+            "location": "/overview/how-it-works/#how-does-lipasafe-work", 
+            "text": "LipaSafe protects buyers and sellers online. Buyers can confidently purchase items from Internet vendors with minimal risk.", 
+            "title": "How does LipaSafe work?"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-1-contact-the-seller", 
+            "text": "The buyer makes contact with the seller and confirms the product/service can be supplied and the seller can accept LipaSafe transactions.", 
+            "title": "Step 1: Contact the seller"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-2-start-a-transaction", 
+            "text": "The buyer will start a LipaSafe transaction by entering essential details about the deal.   On saving the transaction, an escrow account will be created to facilitate the transaction between the buyer and the seller.   The buyer can deposit into the escrow account with M-PESA as soon as the seller accepts the transaction/deal.", 
+            "title": "Step 2: Start a transaction"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-3-alert-seller", 
+            "text": "LipaSafe will notify the seller of the buyer's intent to purchase. The seller will review the transaction to make sure it matches the verbal agreement.", 
+            "title": "Step 3: Alert seller"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-4-accept-deal", 
+            "text": "If the transaction matches the verbal agreement, the seller will login to their LipaSafe account and accept the buyer's transaction/deal.", 
+            "title": "Step 4: Accept deal"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-5-6-deposit-funds", 
+            "text": "Once the seller accepts the deal, the buyer will be notified to deposit the agreed amount into the transaction account with Lipa na M-PESA.  The buyer will deposit the agreed amount into the transaction using Lipa Na M-PESA. LipaSafe will keep monitoring the deposits to the transaction and ensure the full amount is deposited before moving the transaction forward.  Once money has been deposited from a transaction, it cannot be withdrawn by the buyer when the deal is in progress.", 
+            "title": "Step 5 &amp; 6: Deposit funds"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-7-delivery-supply", 
+            "text": "Once the full amount is deposited into the transaction, LipaSafe will send notify the seller their payment has been locked in. They can now deliver the product/service with confidence that they will get paid on time.", 
+            "title": "Step 7: Delivery / supply"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-8-optional-shipping", 
+            "text": "If the buyer chooses to deliver to their location, extra shipping information MUST be provided. Shipping will have an extra cost implication which will be added to the total value of the deal.", 
+            "title": "Step 8: Optional shipping"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-9-inspection", 
+            "text": "The buyer will inspect the product/service to ensure it is upto the expected standard. Once inspection is passed, the buyer will authorize payment to be made to the seller's M-PESA number.", 
+            "title": "Step 9: Inspection"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-10-release-funds", 
+            "text": "LipaSafe will release the locked funds to the seller via M-PESA.", 
+            "title": "Step 10: Release funds"
+        }, 
+        {
+            "location": "/overview/how-it-works/#step-11-review-process", 
+            "text": "After each transaction, both the buyer and seller have to review the completed transaction. This step is a part of our defense protocol to create intelligence that can be reliably used to identify honest sellers from the crooks. Our main goal is to create honest e-commerce and a great service for you   All notifications from LipaSafe are be delivered via SMS and email.   All payments into LipaSafe are made via Lipa Na M-PESA til number 599 229", 
+            "title": "Step 11: Review process"
+        }, 
+        {
+            "location": "/accounts/signing-up/", 
+            "text": "Signing up with registration form\n\n\n\n\nVisit the \nregistration page\n on our website\n\n\nFill the simple form\n\n\nClick the green \nContinue\n\n\nLogin with your newly created account.\n\n\n\n\nSigning up with with Facebook\n\n\nIf you control a Facebook account, signing up on LipaSafe is simple.\n\n\n\n\nVisit the \nregistration page\n on our website\n\n\nClick the blue \nRegister with Facebook\n button.\n\n\nAllow all requested permissions on the Facebook oAuth Dialog box to allow LipaSafe to import your account\n\n\nCompletely fill the form that displays next.\n5.You will be automatically logged in.\n\n\n\n\n\n\nWill I verify my email if I signup with Facebook?\n\n\nNo, you do not need to verify your email address. You will have to verify your Safaricom number though\n\n\n\n\nVerifying your mobile number\n\n\nIf you are logging in for the first time, you MUST verify your number to ensure we can deliver notifications to you. \n\n\n\n\nClick \nStart Verification\n to receive a secret code via SMS\n\n\nType in the secret code an click \nVerify Number\n\n\nIf correct, your number will now be verified.\n\n\n\n\n\n\nHint!\n\n\nTo be able to receive payments with M-PESA, please use a registered Safaricom M-PESA number. \n\n\n\n\nVerifying your email\n\n\nWhen you register your account, an activation email is sent to your email address. \n\n\n\n\nLogin to the email address you used to register your LipaSafe account\n\n\nClick on the verification email from LipaSafe\n\n\n\n\n\n\nHint!\n\n\nIf you cannot find the email in your \nInbox\n folder, be sure to check the \nSpam\n folder too.", 
+            "title": "Signing up"
+        }, 
+        {
+            "location": "/accounts/signing-up/#signing-up-with-registration-form", 
+            "text": "Visit the  registration page  on our website  Fill the simple form  Click the green  Continue  Login with your newly created account.", 
+            "title": "Signing up with registration form"
+        }, 
+        {
+            "location": "/accounts/signing-up/#signing-up-with-with-facebook", 
+            "text": "If you control a Facebook account, signing up on LipaSafe is simple.   Visit the  registration page  on our website  Click the blue  Register with Facebook  button.  Allow all requested permissions on the Facebook oAuth Dialog box to allow LipaSafe to import your account  Completely fill the form that displays next.\n5.You will be automatically logged in.    Will I verify my email if I signup with Facebook?  No, you do not need to verify your email address. You will have to verify your Safaricom number though", 
+            "title": "Signing up with with Facebook"
+        }, 
+        {
+            "location": "/accounts/signing-up/#verifying-your-mobile-number", 
+            "text": "If you are logging in for the first time, you MUST verify your number to ensure we can deliver notifications to you.    Click  Start Verification  to receive a secret code via SMS  Type in the secret code an click  Verify Number  If correct, your number will now be verified.    Hint!  To be able to receive payments with M-PESA, please use a registered Safaricom M-PESA number.", 
+            "title": "Verifying your mobile number"
+        }, 
+        {
+            "location": "/accounts/signing-up/#verifying-your-email", 
+            "text": "When you register your account, an activation email is sent to your email address.    Login to the email address you used to register your LipaSafe account  Click on the verification email from LipaSafe    Hint!  If you cannot find the email in your  Inbox  folder, be sure to check the  Spam  folder too.", 
+            "title": "Verifying your email"
+        }, 
+        {
+            "location": "/accounts/logging-in/", 
+            "text": "How do I login to my LipaSafe account?\n\n\n\n\nVisit the \nlogin page\n on the website\n\n\nEnter your email address and password.\n\n\nClick on the \nGreen\n Login button\n\n\n\n\n\n\nCan I login with my mobile number?\n\n\nYes you can. Enter your number in local format (remove +254) e.g. 0700123456", 
+            "title": "Logging in"
+        }, 
+        {
+            "location": "/accounts/logging-in/#how-do-i-login-to-my-lipasafe-account", 
+            "text": "Visit the  login page  on the website  Enter your email address and password.  Click on the  Green  Login button    Can I login with my mobile number?  Yes you can. Enter your number in local format (remove +254) e.g. 0700123456", 
+            "title": "How do I login to my LipaSafe account?"
+        }, 
+        {
+            "location": "/accounts/logging-in-with-facebook/", 
+            "text": "How do I login with Facebook?\n\n\n\n\nVisit the \nlogin page\n on the website\n\n\nClick the \nBlue\n Login with Facebook button.\n\n\nGrant all requested access on the Facebook oAuth dialog box to allow LipaSafe to verify your credentials\n\n\nYou will be redirected to the LipaSafe dashboard on successfully logging in\n\n\n\n\nWhy am I being asked to fill the profile form?\nSometimes, your Facebook email will be different from the email you used to register your LipaSafe account. In this situations, you will be asked to register again with the new email address. You can also login to your existing LipaSafe account and match youe email to the Facebook email.\nDo I need to verify my email address once I change it?\nYes. LipaSafe will send a verification email to your new address. Click on the link in the email to verify your account. Remeber to check the \nSpam Folder\n too ;-)", 
+            "title": "Logging in with Facebook"
+        }, 
+        {
+            "location": "/accounts/logging-in-with-facebook/#how-do-i-login-with-facebook", 
+            "text": "Visit the  login page  on the website  Click the  Blue  Login with Facebook button.  Grant all requested access on the Facebook oAuth dialog box to allow LipaSafe to verify your credentials  You will be redirected to the LipaSafe dashboard on successfully logging in   Why am I being asked to fill the profile form? Sometimes, your Facebook email will be different from the email you used to register your LipaSafe account. In this situations, you will be asked to register again with the new email address. You can also login to your existing LipaSafe account and match youe email to the Facebook email. Do I need to verify my email address once I change it? Yes. LipaSafe will send a verification email to your new address. Click on the link in the email to verify your account. Remeber to check the  Spam Folder  too ;-)", 
+            "title": "How do I login with Facebook?"
+        }, 
+        {
+            "location": "/accounts/reset-your-account/", 
+            "text": "How do I recover my LipaSafe account?\n\n\nSometimes bad things happen and you lose access to your LipaSafe account. If this happens to you, relax! We have an easy way to help yo get back to business.\n\n\n\n\nVisit the \nLogin\n or \nRegistration\n page\n\n\nClick on the \nReset\n button at the bottom of the page\n\n\nOn the \nReset Account Page\n that opens, enter the email address you used to register your LipaSafe account\n\n\nClick on the green \nStart Recovery\n button. Recovery instructions will be sent to your email address.\n\n\nClick the button in the email message to reset your password\n\n\nEnter your new password, confirm it and click \nChange Password\n\n\n\n\n\n\nTip\n\n\nYou should choose a strong password, different from the previous one. Click \nhere\n to generate a secure password", 
+            "title": "Recover your account"
+        }, 
+        {
+            "location": "/accounts/reset-your-account/#how-do-i-recover-my-lipasafe-account", 
+            "text": "Sometimes bad things happen and you lose access to your LipaSafe account. If this happens to you, relax! We have an easy way to help yo get back to business.   Visit the  Login  or  Registration  page  Click on the  Reset  button at the bottom of the page  On the  Reset Account Page  that opens, enter the email address you used to register your LipaSafe account  Click on the green  Start Recovery  button. Recovery instructions will be sent to your email address.  Click the button in the email message to reset your password  Enter your new password, confirm it and click  Change Password    Tip  You should choose a strong password, different from the previous one. Click  here  to generate a secure password", 
+            "title": "How do I recover my LipaSafe account?"
+        }, 
+        {
+            "location": "/getting-around/a-tour-of-the-dashboard/", 
+            "text": "Understanding the LipaSafe dashboard\n\n\nAfter successfully logging in, you will be presented with the \nDashboard\n. Understanding this dashboard is essential to making your transaction experience comfortable.\n\n\n\n\n\n\n1: Start a transaction\n\n\nClick here to start at new transaction. \nClick here\n to learn how to create a LipaSafe transaction.\n\n\n2: Transaction filters\n\n\nOnce you have several transactions in different states, you want a way to sort the list without breaking much sweat. Transaction filters to the rescue! You can now sort transactions based on their status(pending / progressing / cancelled / unaccepted) or type (purchase / sale\n\n\n3: Navigation bar\n\n\nThe navbar provides quick access to major parts of your LipaSafe account. Use it to access your transactions, notifications about your deals and profile.\n\n\n4: Take the tour\n\n\nIn case you get lost, click this button to take a tour of that page.\n\n\n\n\n\n\nHint\n\n\nYou can access the navbar on any page of the website\n\n\n\n\n\n\nInformation\n\n\nYou can find a \nTake the tour\n button on most pages on lipasafe.com", 
+            "title": "A tour of the dashboard"
+        }, 
+        {
+            "location": "/getting-around/a-tour-of-the-dashboard/#understanding-the-lipasafe-dashboard", 
+            "text": "After successfully logging in, you will be presented with the  Dashboard . Understanding this dashboard is essential to making your transaction experience comfortable.", 
+            "title": "Understanding the LipaSafe dashboard"
+        }, 
+        {
+            "location": "/getting-around/a-tour-of-the-dashboard/#1-start-a-transaction", 
+            "text": "Click here to start at new transaction.  Click here  to learn how to create a LipaSafe transaction.", 
+            "title": "1: Start a transaction"
+        }, 
+        {
+            "location": "/getting-around/a-tour-of-the-dashboard/#2-transaction-filters", 
+            "text": "Once you have several transactions in different states, you want a way to sort the list without breaking much sweat. Transaction filters to the rescue! You can now sort transactions based on their status(pending / progressing / cancelled / unaccepted) or type (purchase / sale", 
+            "title": "2: Transaction filters"
+        }, 
+        {
+            "location": "/getting-around/a-tour-of-the-dashboard/#3-navigation-bar", 
+            "text": "The navbar provides quick access to major parts of your LipaSafe account. Use it to access your transactions, notifications about your deals and profile.", 
+            "title": "3: Navigation bar"
+        }, 
+        {
+            "location": "/getting-around/a-tour-of-the-dashboard/#4-take-the-tour", 
+            "text": "In case you get lost, click this button to take a tour of that page.    Hint  You can access the navbar on any page of the website    Information  You can find a  Take the tour  button on most pages on lipasafe.com", 
+            "title": "4: Take the tour"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/", 
+            "text": "Preparing for a transaction\n\n\nBefore you create a LipaSafe transaction, make sure you have contacted your seller and verbally agreed on the terms of the purchase. Contacting your seller beforehand guarantees they can supply and a bargain can be struck. As always, engage with strangers on the Internet with lots of caution.\n\n\n\n\nHint\n\n\nClick here\n to access our quick safety checklist when engaging in a transaction\n\n\n\n\nCreating a transaction\n\n\n\n\n\n\n1. Choose your role in the transaction\n\n\nSelect if you are a buyer or a seller in this transaction. Buyers usually deposit funds into the transaction account.\n\n\n2. Enter product/service name\n\n\nKeep this as accurate as possible\n\n\n3: Purchase value\n\n\nHow much will this product/service cost the buyer? You can include a delivery fee or add it later in the [transaction page]\n\n\n4. Partner telephone\n\n\nEnter the mobile number of the person you want to transact with. Depending on what you chose in \nStep 1\n, this field can represent a buyer or seller telephone\n\n\n\n\n\n\nIf your are a \nBuyer\n in the transaction, the seller will get an SMS message asking them to accept your transaction.\n\n\n\n\n\n\nIf your are a \nSeller\n in the transaction, the buyer will get an SMS message asking them to deposit funds into the transaction account.\n\n\n\n\n\n\n5: Short Description\n\n\nIt is usually a good idea to paste in the links and/or a clear description of the transaction you are undertaking\n\n\n6: Submit form\n\n\nClick this button to create the transaction. You will be redirected to the [transaction page]", 
+            "title": "Creating a transaction"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#preparing-for-a-transaction", 
+            "text": "Before you create a LipaSafe transaction, make sure you have contacted your seller and verbally agreed on the terms of the purchase. Contacting your seller beforehand guarantees they can supply and a bargain can be struck. As always, engage with strangers on the Internet with lots of caution.   Hint  Click here  to access our quick safety checklist when engaging in a transaction", 
+            "title": "Preparing for a transaction"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#creating-a-transaction", 
+            "text": "", 
+            "title": "Creating a transaction"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#1-choose-your-role-in-the-transaction", 
+            "text": "Select if you are a buyer or a seller in this transaction. Buyers usually deposit funds into the transaction account.", 
+            "title": "1. Choose your role in the transaction"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#2-enter-productservice-name", 
+            "text": "Keep this as accurate as possible", 
+            "title": "2. Enter product/service name"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#3-purchase-value", 
+            "text": "How much will this product/service cost the buyer? You can include a delivery fee or add it later in the [transaction page]", 
+            "title": "3: Purchase value"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#4-partner-telephone", 
+            "text": "Enter the mobile number of the person you want to transact with. Depending on what you chose in  Step 1 , this field can represent a buyer or seller telephone    If your are a  Buyer  in the transaction, the seller will get an SMS message asking them to accept your transaction.    If your are a  Seller  in the transaction, the buyer will get an SMS message asking them to deposit funds into the transaction account.", 
+            "title": "4. Partner telephone"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#5-short-description", 
+            "text": "It is usually a good idea to paste in the links and/or a clear description of the transaction you are undertaking", 
+            "title": "5: Short Description"
+        }, 
+        {
+            "location": "/getting-around/creating-a-transaction/#6-submit-form", 
+            "text": "Click this button to create the transaction. You will be redirected to the [transaction page]", 
+            "title": "6: Submit form"
+        }, 
+        {
+            "location": "/getting-around/depositing-a-payment/", 
+            "text": "How do I deposit funds into a transaction?\n\n\nLipaSafe currently accepts \nLipa Na M-PESA\n till number payments only. Our team is working hard to ensure other payment methods will be available in the near future.\n\n\nTo make a payment into LipaSafe, please follow the following instructions:-\n\n\n\n\n\n\nFind M-PESA on your phone, then select Lipa na M-PESA\n\n\nSelect \nBuy Goods and Services\n and enter till number \n599829\n\n\nEnter amount you wish to deposit\n\n\nEnter your \nM-PESA PIN\n number and Confirm\n\n\nWait a few moments for your transaction to process\n\n\nConfirm the deposit from the transaction page\n\n\n\n\n\n\nF.A.Qs\n\n\nHow long does a payment take to reflect in my LipaSafe transaction?\nApproximately 1 minute. However, M-PESA occasionally experiences delays. It is recommended to wait at least 20 minutes before reporting the issue to Customer Care\nHow can I contact customer care?\nPlease visit our \ncontacts page\n to get our cstomer care number and email.", 
+            "title": "Depositing funds with M-PESA"
+        }, 
+        {
+            "location": "/getting-around/depositing-a-payment/#how-do-i-deposit-funds-into-a-transaction", 
+            "text": "LipaSafe currently accepts  Lipa Na M-PESA  till number payments only. Our team is working hard to ensure other payment methods will be available in the near future.  To make a payment into LipaSafe, please follow the following instructions:-    Find M-PESA on your phone, then select Lipa na M-PESA  Select  Buy Goods and Services  and enter till number  599829  Enter amount you wish to deposit  Enter your  M-PESA PIN  number and Confirm  Wait a few moments for your transaction to process  Confirm the deposit from the transaction page", 
+            "title": "How do I deposit funds into a transaction?"
+        }, 
+        {
+            "location": "/getting-around/depositing-a-payment/#faqs", 
+            "text": "How long does a payment take to reflect in my LipaSafe transaction? Approximately 1 minute. However, M-PESA occasionally experiences delays. It is recommended to wait at least 20 minutes before reporting the issue to Customer Care How can I contact customer care? Please visit our  contacts page  to get our cstomer care number and email.", 
+            "title": "F.A.Qs"
+        }, 
+        {
+            "location": "/legal/stay-safe/", 
+            "text": "Safety Tips for Buyers\n\n\n\n\nInsist on inspecting the product/a warranty before buying it\n\n\nMeet the seller in a public place\n\n\nInquire about availability of delivery before you make your purchase\n\n\nOnly make the payment upon receipt of the product\n\n\n\n\nSafety Tips for Sellers:\n\n\n\n\nEnsure you upload an accurate image of the item\n\n\nEnsure you list an active phone number and email address\n\n\nEnsure your phone remains on, in order to receive calls from any potential buyers\n\n\nBeware of spam messages\n\n\nEnsure you meet the buyer in a public place\n\n\nEnsure you receive your payment before releasing the good or service \n\n\n\n\nHow to identify potential fraud\n\n\n\n\nCheck out the product and price \u2013 is it reasonable or too good to be true?\n\n\nAre you being asked to pay via unknown payment systems, wire transfer or via upfront payment?\n\n\nIs the seller trying to prove the authenticity without being asked?\n\n\nIs the seller unwilling to answer relevant questions, or not answering his/her phone?\n\n\nIs the seller unwilling to use traceable transport methods?\n\n\n\n\n\n\nInformation\n\n\nIf you get confused when purchasing online, dig around the Internet for more information and advise from reputable sources. Ignorance is expensive. Remember that.", 
+            "title": "Safety tips"
+        }, 
+        {
+            "location": "/legal/stay-safe/#safety-tips-for-buyers", 
+            "text": "Insist on inspecting the product/a warranty before buying it  Meet the seller in a public place  Inquire about availability of delivery before you make your purchase  Only make the payment upon receipt of the product", 
+            "title": "Safety Tips for Buyers"
+        }, 
+        {
+            "location": "/legal/stay-safe/#safety-tips-for-sellers", 
+            "text": "Ensure you upload an accurate image of the item  Ensure you list an active phone number and email address  Ensure your phone remains on, in order to receive calls from any potential buyers  Beware of spam messages  Ensure you meet the buyer in a public place  Ensure you receive your payment before releasing the good or service", 
+            "title": "Safety Tips for Sellers:"
+        }, 
+        {
+            "location": "/legal/stay-safe/#how-to-identify-potential-fraud", 
+            "text": "Check out the product and price \u2013 is it reasonable or too good to be true?  Are you being asked to pay via unknown payment systems, wire transfer or via upfront payment?  Is the seller trying to prove the authenticity without being asked?  Is the seller unwilling to answer relevant questions, or not answering his/her phone?  Is the seller unwilling to use traceable transport methods?    Information  If you get confused when purchasing online, dig around the Internet for more information and advise from reputable sources. Ignorance is expensive. Remember that.", 
+            "title": "How to identify potential fraud"
+        }, 
+        {
+            "location": "/legal/contacts/", 
+            "text": "LipaSafe Contact Information\n\n\nWe are happy to help. Please get in touch with us on the following channels:-\n\n\n\n\n\n    \n\n        \nTelephone\n\n        \n0741 504 000\n\n    \n\n    \n\n        \nGeneral Communication\n\n        \nhello@lipasafe.com\n\n    \n\n    \n\n        \nCustomer Care Email\n\n        \ncare@lipasafe.com\n\n    \n\n    \n\n        \nFacebook\n\n        \n\n            \nhttps://fb.me/lipasafeKE", 
+            "title": "Contact Information"
+        }, 
+        {
+            "location": "/legal/contacts/#lipasafe-contact-information", 
+            "text": "We are happy to help. Please get in touch with us on the following channels:-   \n     \n         Telephone \n         0741 504 000 \n     \n     \n         General Communication \n         hello@lipasafe.com \n     \n     \n         Customer Care Email \n         care@lipasafe.com \n     \n     \n         Facebook \n         \n             https://fb.me/lipasafeKE", 
+            "title": "LipaSafe Contact Information"
+        }, 
+        {
+            "location": "/legal/privacy-policy/", 
+            "text": "Hello there,\n\n\nYou are here because you care about how your Personally Identifiable Information' (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our escrow service.\n\n\nWhat personal information do we collect from the people that visit our blog, website or app?\n\n\nWhen ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number, credit card information or other details to help you experience our service better.\n\n\nWhen do we collect information?\n\n\nWe collect information from you when you register on our site or use our escrow service.\n\n\nHow do we use your information?\n\n\nWe may use the information we collect from you when you register, create a transaction, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:\n\n To personalize your experience and to allow us to deliver great service to you.\n\n To improve our website in order to better serve you.\n\n To allow us to better service you in responding to your customer care requests.\n\n To administer a contest, promotion, survey or other site feature.\n\nTo quickly process your transactions.\n\n To ask for ratings and reviews of other site members\n* To follow up with them after correspondence (live chat, email or phone inquiries)\n\n\nHow do we protect your information?\n\n\nWe provide all our core services under an SSL security veil and other supportive technologies. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.\n\n\nWe implement a variety of security measures when a user transacts, submits, or accesses their information to maintain the safety of your personal information.\n\n\nAll transactions are processed through secure service providers.\n\n\nDo we use 'cookies'?\n\n\nYes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. They help us understand your preferences based on previous or current activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.\n\n\nWe use cookies to:\n\n Understand and save user's preferences for future visits.\n\n Keep track of advertisements.\n* Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.\n\n\nYou can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.\n\n\nIf you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.\n\n\nThird-party disclosure\n\n\nWe do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. \nHowever, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.\n\n\nThird-party links\n\n\nOccasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.\n\n\nGoogle\n\n\nGoogle's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en \nWe use Google AdSense Advertising on our website.\n\n\nGoogle, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.\n\n\nWe have implemented the following:\n\n\nWe, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.\n\n\nOpting out:\nUsers can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.\n\n\nContacting Us\n\n\nIf there are any questions regarding this privacy policy, you may contact us using our \ncontact page", 
+            "title": "Privacy Policy"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#hello-there", 
+            "text": "You are here because you care about how your Personally Identifiable Information' (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our escrow service.", 
+            "title": "Hello there,"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#what-personal-information-do-we-collect-from-the-people-that-visit-our-blog-website-or-app", 
+            "text": "When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number, credit card information or other details to help you experience our service better.", 
+            "title": "What personal information do we collect from the people that visit our blog, website or app?"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#when-do-we-collect-information", 
+            "text": "We collect information from you when you register on our site or use our escrow service.", 
+            "title": "When do we collect information?"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#how-do-we-use-your-information", 
+            "text": "We may use the information we collect from you when you register, create a transaction, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  To personalize your experience and to allow us to deliver great service to you.  To improve our website in order to better serve you.  To allow us to better service you in responding to your customer care requests.  To administer a contest, promotion, survey or other site feature. To quickly process your transactions.  To ask for ratings and reviews of other site members\n* To follow up with them after correspondence (live chat, email or phone inquiries)", 
+            "title": "How do we use your information?"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#how-do-we-protect-your-information", 
+            "text": "We provide all our core services under an SSL security veil and other supportive technologies. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.  We implement a variety of security measures when a user transacts, submits, or accesses their information to maintain the safety of your personal information.  All transactions are processed through secure service providers.", 
+            "title": "How do we protect your information?"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#do-we-use-cookies", 
+            "text": "Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. They help us understand your preferences based on previous or current activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  We use cookies to:  Understand and save user's preferences for future visits.  Keep track of advertisements.\n* Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.  You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.  If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.", 
+            "title": "Do we use 'cookies'?"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#third-party-disclosure", 
+            "text": "We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. \nHowever, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.", 
+            "title": "Third-party disclosure"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#third-party-links", 
+            "text": "Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.", 
+            "title": "Third-party links"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#google", 
+            "text": "Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en \nWe use Google AdSense Advertising on our website.  Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  We have implemented the following:  We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.  Opting out:\nUsers can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.", 
+            "title": "Google"
+        }, 
+        {
+            "location": "/legal/privacy-policy/#contacting-us", 
+            "text": "If there are any questions regarding this privacy policy, you may contact us using our  contact page", 
+            "title": "Contacting Us"
         }
     ]
 }

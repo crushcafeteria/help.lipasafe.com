@@ -23,3 +23,10 @@ rm -rf site
 mkdocs build --clean
 cp -R extras site/images
 @endtask
+
+@task('build', ['on'=>'local'])
+cd /var/www/html/help.lipasafe.dev
+rm -rf site
+mkdocs build --clean
+cp -R extras site/images
+@endtask
