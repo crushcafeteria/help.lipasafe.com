@@ -6,7 +6,7 @@
     var iframe = document.getElementById('iframe')
     var rIframe = document.getElementById('rIframe')
     iframe.onload = function(){
-        iframe.style.height = rIframe.style.height = iframe.contentWindow.document.body.offsetHeight + 'px'
+        iframe.style.height = rIframe.style.height = (iframe.contentWindow.document.body.offsetHeight + 10) + 'px'
     }
 </script>
 
