@@ -1,14 +1,11 @@
 <div class="rIframe">
-    <iframe src="https://help.lipasafe.com/images/extras/landing.html" frameborder="0"></iframe>
+    <iframe id="iframe" src="https://help.lipasafe.com/images/extras/landing.html" frameborder="0"></iframe>
 </div>
 
-<script
-  src="http://code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
 <script>
-    $(function(){
-        console.log('Helo')
+    var iframe = document.getElementById('iframe')
+    iframe.on('load', function(){
+        iframe.style.height = iframe.contentWindow.document.body.offsetHeight
     })
 </script>
 
