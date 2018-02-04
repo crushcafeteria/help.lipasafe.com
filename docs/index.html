@@ -4,9 +4,9 @@
 
 <script>
     var iframe = document.getElementById('iframe')
-    iframe.on('load', function(){
+    iframe.onload = function(){
         iframe.style.height = iframe.contentWindow.document.body.offsetHeight
-    })
+    }
 </script>
 
 <style>
