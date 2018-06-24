@@ -19,6 +19,8 @@ git push -u origin master
 cd /var/www/help.lipasafe.com
 git fetch --all
 git reset --hard origin/master
+docker-compose down
+docker-compose up -d
 @endtask
 
 @task('build', ['on'=>'local'])
