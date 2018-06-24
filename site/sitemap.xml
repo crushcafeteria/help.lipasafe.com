@@ -51,6 +51,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>/payments/mpesa-payment-flow/</loc>
+     <lastmod>2018-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>/legal/stay-safe/</loc>
      <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>

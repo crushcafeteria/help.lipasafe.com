@@ -24,6 +24,9 @@ pages:
 #            - 'Autorizing payment': 'accounts/logging-in.md'
 #            - 'Cancellations and refunds': 'accounts/logging-in.md'
 #
+    - Payments:
+            - 'Paying with M-PESA': 'payments/mpesa-payment-flow.md'
+            
     - Security Center:
             - 'Safety tips': 'legal/stay-safe.md'
 #            - 'Password Recommendations': 'accounts/reporting-security-issues.md'
@@ -62,4 +65,3 @@ markdown_extensions:
     - pymdownx.details
     - toc:
         permalink: true
-
