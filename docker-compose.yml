@@ -1,0 +1,9 @@
+version: '3'
+services:
+    web:
+        image: sodiumafrica/sodiumserver:1.0
+        volumes:
+            - ./docker/vhost.conf:/etc/nginx/servers/help.lipasafe.com.conf:rw
+            - .:/var/www:rw
+        ports:
+          - 15013:80
