@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": ".rIframe {\n        position: relative;\n        height: 0;\n        overflow: hidden;\n        padding-bottom: 100%;\n    }\n\n    .rIframe iframe {\n        position: absolute;\n        top: 0;\n        left: 0;\n        width: 100%;\n        height: 100%;\n    }", 
+            "text": "var iframe = document.getElementById('iframe')\n    var rIframe = document.getElementById('rIframe')\n    iframe.onload = function(){\n        iframe.style.height = rIframe.style.height = (iframe.contentWindow.document.body.offsetHeight + 50) + 'px'\n    }\n\n\n\n\n\n    .rIframe {\n        position: relative;\n        height: 0;\n        overflow: hidden;\n        /*padding-bottom: 75%;*/\n    }\n\n    .rIframe iframe {\n        position: absolute;\n        top: 0;\n        left: 0;\n        width: 100%;\n        height: 100%;\n    }\n\n    .md-content__inner h1 {\n        display: none;\n    }", 
             "title": "Home"
         }, 
         {

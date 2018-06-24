@@ -1,7 +1,8 @@
-@servers(['local'=>'127.0.0.1', 'production'=>'nelson@lipasafe.com'])
+@servers(['local'=>'127.0.0.1', 'production'=>'root@dock.lipasafe.com'])
 
 {{--Deploy application--}}
 @story('deploy')
+build
 push-to-git
 pull-to-live
 @endstory
@@ -25,7 +26,6 @@ cp -R extras site/images
 @endtask
 
 @task('build', ['on'=>'local'])
-cd /var/www/html/help.lipasafe.dev
 rm -rf site
 mkdocs build --clean
 cp -R extras site/images

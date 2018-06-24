@@ -1,104 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
      <loc>/overview/what-is-escrow/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/overview/how-it-works/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>/accounts/signing-up/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/accounts/logging-in/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/accounts/logging-in-with-facebook/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/accounts/reset-your-account/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>/getting-around/a-tour-of-the-dashboard/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/getting-around/creating-a-transaction/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/getting-around/depositing-a-payment/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>/legal/stay-safe/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>/legal/contacts/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>/legal/privacy-policy/</loc>
-     <lastmod>2018-02-04</lastmod>
+     <lastmod>2018-06-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
 </urlset>
