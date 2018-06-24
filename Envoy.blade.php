@@ -19,9 +19,6 @@ git push -u origin master
 cd /var/www/help.lipasafe.com
 git fetch --all
 git reset --hard origin/master
-rm -rf site
-mkdocs build --clean
-cp -R extras site/images
 @endtask
 
 @task('build', ['on'=>'local'])
