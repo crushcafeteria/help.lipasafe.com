@@ -2,77 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/overview/what-is-escrow/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/overview/how-it-works/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/accounts/signing-up/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/accounts/logging-in/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/accounts/logging-in-with-facebook/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/accounts/reset-your-account/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/getting-around/a-tour-of-the-dashboard/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/getting-around/creating-a-transaction/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/getting-around/depositing-a-payment/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/payments/mpesa-payment-flow/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/rewards/the-lipasafe-rewards-program/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/rewards/terms-and-conditions/</loc>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/legal/stay-safe/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/legal/contacts/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/legal/privacy-policy/</loc>
-     <lastmod>2018-06-25</lastmod>
+     <lastmod>2018-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
