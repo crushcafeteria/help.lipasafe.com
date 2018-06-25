@@ -26,7 +26,10 @@ pages:
 #
     - Payments:
             - 'Paying with M-PESA': 'payments/mpesa-payment-flow.md'
-            
+
+    - Rewards Program:
+            - 'How it works': 'rewards/the-lipasafe-rewards-program.md'
+
     - Security Center:
             - 'Safety tips': 'legal/stay-safe.md'
 #            - 'Password Recommendations': 'accounts/reporting-security-issues.md'

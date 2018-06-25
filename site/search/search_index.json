@@ -107,13 +107,18 @@
         }, 
         {
             "location": "/accounts/logging-in/", 
-            "text": "How do I login to my LipaSafe account?\n\n\n\n\nVisit the \nlogin page\n on the website\n\n\nEnter your email address and password.\n\n\nClick on the \nGreen\n Login button\n\n\n\n\n\n\nCan I login with my mobile number?\n\n\nYes you can. Enter your number in local format (remove +254) e.g. 0700123456", 
+            "text": "How do I login to my LipaSafe account?\n\n\n\n\nVisit the \nlogin page\n on the website\n\n\nEnter your email address and password.\n\n\nClick on the \nGreen\n Login button\n\n\n\n\n\n\nCan I login with my mobile number?\n\n\nYes you can. Enter your number in local format (remove +254) e.g. 0700123456\n\n\n\n\nStep-by-step instructions", 
             "title": "Logging in"
         }, 
         {
             "location": "/accounts/logging-in/#how-do-i-login-to-my-lipasafe-account", 
             "text": "Visit the  login page  on the website  Enter your email address and password.  Click on the  Green  Login button    Can I login with my mobile number?  Yes you can. Enter your number in local format (remove +254) e.g. 0700123456", 
             "title": "How do I login to my LipaSafe account?"
+        }, 
+        {
+            "location": "/accounts/logging-in/#step-by-step-instructions", 
+            "text": "", 
+            "title": "Step-by-step instructions"
         }, 
         {
             "location": "/accounts/logging-in-with-facebook/", 
@@ -229,6 +234,26 @@
             "location": "/payments/mpesa-payment-flow/", 
             "text": "All payments to LipaSafe are made with M-PESA till number.\n\n\n\n\n\n\nFind M-PESA on your phone then select \nLipa Na M-PESA\n\n\nSelect \nBuy Goods And Services\n\n\nEnter till number \n911326\n and press \nOK\n\n\nEnter the total transaction amount displayed in the deposit instructions\n\n\nEnter your \nPIN\n and press \nOK\n\n\n\n\n\n\nTip\n\n\nIf you are making the payment with the same number you have registered\non your profile, LipaSafe will automatically detect your payment. Otherwise,\nyou can enter the \ncode\n you received in the M-PESA SMS.", 
             "title": "Paying with M-PESA"
+        }, 
+        {
+            "location": "/rewards/the-lipasafe-rewards-program/", 
+            "text": "We are giving away half of all our profits to individuals who will share LipaSafe and help us reach new people.\n\n\nHow do I join the Rewards Program?\n\n\nTo join the rewards program, you must hold a LipaSafe account.\nFollow the instructions below:-\n\n\n\n\nRegister\n for a LipaSafe account. It takes less than 30 seconds.\n\n\nVerify your telephone number\n\n\nClick on \nGet Rewards\n on the top menu.\n\n\nClick on the Green \nGet referral link\n button\n\n\nThat's it!\n\n\n\n\nHow do I make money from the Rewards Program?\n\n\nOnce you have joined the \nLipaSafe Rewards Program\n, you will find your referral link in the new\n\nRewards Dashboard\n page. Copy this link and share it with your\nfamily and friends e.g. on Facebook, Twitter, SMS or WhatApp.\n\n\nAnyone who clicks on the referral link will \nSignup\n with LipaSafe and they automatically get added\nto your referral network. Additionally, they get a \n50% discount\n off their first transaction, courtesy of you.\n\n\nYou will earn \n50%\n of the total transaction fees we charge anyone in your referral network when they use\nLipaSafe to protect their Internet transactions.\n\n\nHow do I get my money?\n\n\nAll settlements are realtime and can be accessed from your [Rewards Dashboard](https://lipasafe.com/referral/home.\nTo withdraw your rewards into hard cash, click the \nWithdraw\n button and we will process your payment within 24 hours.\n\n\n\n\nTip\n\n\nWe will send your money to the number registered in your profile.\nMake sure this number is registered with M-PESA and able to receive funds", 
+            "title": "How it works"
+        }, 
+        {
+            "location": "/rewards/the-lipasafe-rewards-program/#how-do-i-join-the-rewards-program", 
+            "text": "To join the rewards program, you must hold a LipaSafe account.\nFollow the instructions below:-   Register  for a LipaSafe account. It takes less than 30 seconds.  Verify your telephone number  Click on  Get Rewards  on the top menu.  Click on the Green  Get referral link  button  That's it!", 
+            "title": "How do I join the Rewards Program?"
+        }, 
+        {
+            "location": "/rewards/the-lipasafe-rewards-program/#how-do-i-make-money-from-the-rewards-program", 
+            "text": "Once you have joined the  LipaSafe Rewards Program , you will find your referral link in the new Rewards Dashboard  page. Copy this link and share it with your\nfamily and friends e.g. on Facebook, Twitter, SMS or WhatApp.  Anyone who clicks on the referral link will  Signup  with LipaSafe and they automatically get added\nto your referral network. Additionally, they get a  50% discount  off their first transaction, courtesy of you.  You will earn  50%  of the total transaction fees we charge anyone in your referral network when they use\nLipaSafe to protect their Internet transactions.", 
+            "title": "How do I make money from the Rewards Program?"
+        }, 
+        {
+            "location": "/rewards/the-lipasafe-rewards-program/#how-do-i-get-my-money", 
+            "text": "All settlements are realtime and can be accessed from your [Rewards Dashboard](https://lipasafe.com/referral/home.\nTo withdraw your rewards into hard cash, click the  Withdraw  button and we will process your payment within 24 hours.   Tip  We will send your money to the number registered in your profile.\nMake sure this number is registered with M-PESA and able to receive funds", 
+            "title": "How do I get my money?"
         }, 
         {
             "location": "/legal/stay-safe/", 
