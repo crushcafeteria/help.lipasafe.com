@@ -1,4 +1,4 @@
-@servers(['local'=>'127.0.0.1', 'production'=>'root@dock.lipasafe.com'])
+@servers(['local'=>'127.0.0.1', 'production'=>'root@sodium.co.ke'])
 
 {{--Deploy application--}}
 @story('deploy')
