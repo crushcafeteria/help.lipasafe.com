@@ -42,7 +42,7 @@ This form will require the following fields:-
 ``` html
 <form action="https://lipasafe.com/api/escrow/create" method="POST" target="_blank">
     <!-- Get the account_no from your LipaSafe profile -->
-    <input type="hidden" name="shop_id" value="ABCDEF">
+    <input type="hidden" name="shop_id" value="[SHOP ID]">
     <!-- Will always be SELLER for now -->
     <input type="hidden" name="role" value="SELLER">
     <!-- Max 255 characters -->
