@@ -44,6 +44,10 @@ pages:
 #            - 'Preparing for dispute resolution': 'accounts/logging-in.md'
 #            - 'The dispute resolution process': 'accounts/logging-in.md'
 
+    - Developer:
+        - 'Creating a shop': 'api/creating-a-shop.md'
+        - 'Escrow API': 'api/escrow/00-getting-started.md'
+
     - Legal:
             - 'Contact Information': 'legal/contacts.md'
             - 'Privacy Policy': 'legal/privacy-policy.md'
@@ -67,5 +71,7 @@ theme:
 markdown_extensions:
     - admonition
     - pymdownx.details
+    - codehilite:
+        linenums: true
     - toc:
         permalink: true
