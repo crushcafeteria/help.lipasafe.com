@@ -15,7 +15,6 @@ pages:
     - Getting Around:
             - 'A tour of the dashboard': 'getting-around/a-tour-of-the-dashboard.md'
             - 'Creating a transaction': 'getting-around/creating-a-transaction.md'
-            - 'Depositing funds with M-PESA': 'getting-around/depositing-a-payment.md'
 #            - 'Understanding a transaction': 'accounts/signing-up.md'
 #            - 'Accepting a transaction': 'accounts/logging-in.md'
 #            - 'Depositing funds with M-PESA': 'accounts/logging-in.md'
