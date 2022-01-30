@@ -1,11 +1,5 @@
 @servers(['local'=>'127.0.0.1', 'production'=>'root@sodium.co.ke'])
 
-{{--Deploy application--}}
-@story('deploy')
-build
-push-to-git
-pull-to-live
-@endstory
 
 {{--Push local changes to remote Git repo--}}
 @task('push-to-git', ['on'=>'local'])
@@ -26,3 +20,11 @@ rm -rf site
 mkdocs build --clean
 cp -R extras site/images
 @endtask
+
+
+{{--Deploy application--}}
+@story('deploy')
+build
+push-to-git
+pull-to-live
+@endstory
