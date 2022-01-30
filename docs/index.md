@@ -1,4 +1,7 @@
 # Welcome to Lipasafe Help Center
+
+![The Dashboard](../images/banner.jpg)
+
 This website has been put together to act as a guide that will explain:-
 
 - How Lipasafe.com works
