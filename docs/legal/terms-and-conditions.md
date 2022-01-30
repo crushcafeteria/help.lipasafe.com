@@ -60,4 +60,4 @@ Lipasafe.com may assign this Agreement to any current or future affiliated compa
 
 If you are a registered User of the Site, then each time you request the Services will constitute your agreement to these Terms of Using the Escrow Platform, as amended from time to time in Lipasafe.com's sole discretion, and evidence that you have read, understood and accepted the then applicable Terms of Using the Escrow Platform.
 
-> Revised July 16, 2012.
+> Revised January 30, 2022.
