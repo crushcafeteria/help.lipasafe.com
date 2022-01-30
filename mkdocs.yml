@@ -1,76 +1,52 @@
-site_name: LipaSafe Help Center
-
-pages:
-    - Home: 'index.html'
-    - Overview:
-        - 'What is escrow?': 'overview/what-is-escrow.md'
-        - 'How does LipaSafe work?': 'overview/how-it-works.md'
-#        - 'Flow of funds': 'overview/funds-flow.md'
-
-    - Accounts:
-            - 'Signing up': 'accounts/signing-up.md'
-            - 'Logging in': 'accounts/logging-in.md'
-            - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
-            - 'Recover your account': 'accounts/reset-your-account.md'
-    - Getting Around:
-            - 'A tour of the dashboard': 'getting-around/a-tour-of-the-dashboard.md'
-            - 'Creating a transaction': 'getting-around/creating-a-transaction.md'
-#            - 'Understanding a transaction': 'accounts/signing-up.md'
-#            - 'Accepting a transaction': 'accounts/logging-in.md'
-#            - 'Depositing funds with M-PESA': 'accounts/logging-in.md'
-#            - 'How to monitor a transaction': 'accounts/logging-in.md'
-#            - 'Shipping and delivery': 'accounts/logging-in.md'
-#            - 'Autorizing payment': 'accounts/logging-in.md'
-#            - 'Cancellations and refunds': 'accounts/logging-in.md'
-#
-    - Payments:
-            - 'Paying with M-PESA': 'payments/mpesa-payment-flow.md'
-
-    - Rewards Program:
-            - 'How it works': 'rewards/the-lipasafe-rewards-program.md'
-            - 'Terms and conditions': 'rewards/terms-and-conditions.md'
-
-    - Security Center:
-            - 'Safety tips': 'legal/stay-safe.md'
-#            - 'Password Recommendations': 'accounts/reporting-security-issues.md'
-#            - 'Reporting fraud': 'accounts/logging-in.md'
-#            - 'Reporting security issues': 'accounts/reporting-security-issues.md'
-#
-#    - Dispute Resolution:
-#            - 'What is a dispute?': 'accounts/logging-in.md'
-#            - 'What causes dispute?': 'accounts/logging-in.md'
-#            - 'Minimizing risk of dispute': 'accounts/logging-in.md'
-#            - 'Preparing for dispute resolution': 'accounts/logging-in.md'
-#            - 'The dispute resolution process': 'accounts/logging-in.md'
-
-    - Developer:
-        - 'Creating a shop': 'api/creating-a-shop.md'
-        - 'Escrow API': 'api/escrow/00-getting-started.md'
-
-    - Legal:
-            - 'Contact Information': 'legal/contacts.md'
-            - 'Privacy Policy': 'legal/privacy-policy.md'
+site_name: Lipasafe Help Center
 
 theme:
-    name: 'material'
-    custom_dir: 'theme'
-    logo: 'images/logo.png'
-    favicon: 'images/logo.png'
-    font:
-        text: 'Work Sans'
-        code: 'Ubuntu Mono'
+  name: material
 
-    palette:
-        primary: 'indigo'
-        accent: 'light green'
 
-#    feature:
-#        tabs: true
+nav:
+  - Home: 'index.md'
+  - Frequently Asked Questions: 'frequently-asked-questions.md'
+  - Overview:
+      - 'What is escrow?': 'overview/what-is-escrow.md'
+      - 'How does LipaSafe work?': 'overview/how-it-works.md'
+      - 'What can you buy with Lipasafe.com?': 'overview/what-can-you-buy.md'
 
-markdown_extensions:
-    - admonition
-    - pymdownx.details
-    - codehilite:
-        linenums: true
-    - toc:
-        permalink: true
+  - Getting Started:
+      - 'Signing up': 'accounts/signing-up.md'
+      - 'Logging in': 'accounts/logging-in.md'
+      - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
+      - 'Recover your account': 'accounts/reset-your-account.md'
+
+  - Using Lipasafe.com:
+      - 'A tour of the dashboard': 'using-lipasafe/a-tour-of-the-dashboard.md'
+      - 'Preparing for a transaction': 'using-lipasafe/preparing-for-a-transaction.md'
+      - 'Starting a transaction': 'using-lipasafe/creating-a-transaction.md'
+      - 'Seller: Accepting a transaction': 'using-lipasafe/accepting-a-transaction.md'
+      - 'Buyer: Depositing funds': 'using-lipasafe/depositing-funds.md'
+      - 'Adding delivery location': 'using-lipasafe/adding-delivery-location.md'
+
+  - Dispute Resolution Process (DRP):
+      - 'What is the dispute resolution process?': 'drp/what-is-dispute-resolution-process.md'
+      - 'Acceptable DRP proofs': 'drp/acceptable-proofs.md'
+
+#
+#  - Rewards Program:
+#      - 'How it works': 'rewards/the-lipasafe-rewards-program.md'
+#      - 'Terms and conditions': 'rewards/terms-and-conditions.md'
+#
+#  - Security Center:
+#      - 'Safety tips': 'legal/stay-safe.md'
+#      - 'Password Recommendations': 'accounts/reporting-security-issues.md'
+#      - 'Reporting fraud': 'accounts/logging-in.md'
+#      - 'Reporting security issues': 'accounts/reporting-security-issues.md'
+
+#
+#  - Developer:
+#      - 'Creating a shop': 'api/creating-a-shop.md'
+#      - 'Escrow API': 'api/escrow/00-getting-started.md'
+
+  - 'Prohibited goods and services': 'legal/prohibited-list.md'
+  - 'Terms & Conditions': 'legal/terms-and-conditions.md'
+  - 'Privacy Policy': 'legal/privacy-policy.md'
+  - 'Contact Information': 'legal/contacts.md'

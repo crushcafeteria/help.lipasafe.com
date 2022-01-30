@@ -1,46 +1,28 @@
 # How does LipaSafe work?
-LipaSafe protects buyers and sellers online. Buyers can confidently purchase items from Internet vendors with minimal risk.
+Lipasafe.com reduces the risk of fraud by acting as a trusted third-party that collects, holds, and only disburses funds when both the Buyer and Seller are satisfied with the transaction. The following steps describe a Lipasafe.com transaction:-
+
+* Buyer and seller agree to terms. Either the Buyer or Seller initiates a transaction on Lipasafe. After registering, all parties MUST agree to the terms of the transaction before it can move forward.
+* Buyer deposits funds to Lipasafe. The Buyer submits a payment using the approved payment methods into the transaction account. Lipasafe.com verifies the deposit, then the Seller is notified that funds have been secured “In Escrow”.
+* Seller delivers product/service to Buyer. Upon payment verification, Lipasafe.com will authorize the Seller to deliver the merchandise to the buyer. Lipasafe.com verifies that the Buyer has received the goods or services.
+* Buyer accepts product / service. The Buyer has a set number of days (Inspection Period) to inspect the product / service with the option to accept or reject it. If the product / service is of low quality, the Buyer has the option to reject the transaction and enter the dispute resolution process.
+* Lipasafe.com pays the Seller. If the product/service is of good quality, the Buyer will pay the Seller promptly. Lipasafe.com will release the funds to the Seller from the Escrow Account.
+
+Here is a complete flow of the Lipasafe.com process:-
 
 ![How LipaSafe works](../images/txn-flow.png)
 
-##### Step 1: Contact the seller
-> The buyer makes contact with the seller and confirms the product/service can be supplied and the seller can accept LipaSafe transactions.
+## What happens if a buyer or seller rejects the transaction?
+Both the buyer and seller have the right to reject a transaction for any valid reason. In case a transaction is rejected, it automatically enters the Dispute Resolution Process which works as follows:-
 
-##### Step 2: Start a transaction
-> The buyer will start a LipaSafe transaction by entering essential details about the deal. 
+* Buyer will return the product / service to the seller at their own cost and provide proof of returning the product / service
+* The seller will confirm receiving the return and provide proof of the same.
+* Lipasafe.com will cross check and refund the buyer the transaction amount less service fees.
 
-> On saving the transaction, an escrow account will be created to facilitate the transaction between the buyer and the seller. 
+You can read more about the [Dispute Resolution Process here](#).
 
-> The buyer can deposit into the escrow account with M-PESA as soon as the seller accepts the transaction/deal.
+## What is the Inspection Period?
+The Inspection Period is the number of days it will take to check the product / service or perform due diligence. This period is usually specified at the start of the transaction and **MUST** be agreed upon beforehand by both the buyer and seller.
 
-##### Step 3: Alert seller
-> LipaSafe will notify the seller of the buyer's intent to purchase. The seller will review the transaction to make sure it matches the verbal agreement.
+## What if the buyer receives the product / service and refuses to pay the seller?
+Lipasafe.com will automatically release the secured funds to the seller after expiry of the Inspection Period. 
 
-##### Step 4: Accept deal
-> If the transaction matches the verbal agreement, the seller will login to their LipaSafe account and accept the buyer's transaction/deal.
-
-##### Step 5 & 6: Deposit funds 
-> Once the seller accepts the deal, the buyer will be notified to deposit the agreed amount into the transaction account with Lipa na M-PESA.
-
-> The buyer will deposit the agreed amount into the transaction using Lipa Na M-PESA. LipaSafe will keep monitoring the deposits to the transaction and ensure the full amount is deposited before moving the transaction forward.
-
-> Once money has been deposited from a transaction, it cannot be withdrawn by the buyer when the deal is in progress.
-
-##### Step 7: Delivery / supply
-> Once the full amount is deposited into the transaction, LipaSafe will send notify the seller their payment has been locked in. They can now deliver the product/service with confidence that they will get paid on time. 
-
-##### Step 8: Optional shipping
-> If the buyer chooses to deliver to their location, extra shipping information MUST be provided. Shipping will have an extra cost implication which will be added to the total value of the deal.
-
-##### Step 9: Inspection
-> The buyer will inspect the product/service to ensure it is upto the expected standard. Once inspection is passed, the buyer will authorize payment to be made to the seller's M-PESA number.
-
-##### Step 10: Release funds
-> LipaSafe will release the locked funds to the seller via M-PESA. 
-
-##### Step 11: Review process
-> After each transaction, both the buyer and seller have to review the completed transaction. This step is a part of our defense protocol to create intelligence that can be reliably used to identify honest sellers from the crooks. Our main goal is to create honest e-commerce and a great service for you
-
-<small>All notifications from LipaSafe are be delivered via SMS and email.</small>
-<br>
-<small>All payments into LipaSafe are made via Lipa Na M-PESA til number 599 229</small>

@@ -58,4 +58,4 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy, you may contact us using our [contact page](../legal/contacts)
+If there are any questions regarding this privacy policy, you may contact us using our [contact page](/legal/contacts)
