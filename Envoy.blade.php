@@ -10,7 +10,7 @@ git push -u origin master
 
 {{--Pull new changes from remote repo to VPS --}}
 @task('pull-to-live', ['on'=>'production'])
-cd /var/www/help.lipasafe.com
+cd /mnt/www/help.lipasafe.com
 git fetch --all
 git reset --hard origin/master
 @endtask
