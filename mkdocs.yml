@@ -42,9 +42,13 @@ nav:
 #      - 'Reporting security issues': 'accounts/reporting-security-issues.md'
 
 #
-#  - Developer:
-#      - 'Creating a shop': 'api/creating-a-shop.md'
-#      - 'Escrow API': 'api/escrow/00-getting-started.md'
+  - Escrow Developer API:
+      - 'Introduction': 'developer/introduction.md'
+      - 'Setup a vendor account': 'developer/setup-a-vendor-account.md'
+      - 'iFrame Integration': 'developer/embed-escrow-iframe.md'
+      - 'Test Accounts': 'developer/developer-test-accounts.md'
+      - 'Instant Payment Notifications (IPN)': 'developer/payment-notifications.md'
+      - 'KYC & Go Live Requirements': 'developer/kyc-requirements.md'
 
   - 'Prohibited goods and services': 'legal/prohibited-list.md'
   - 'Terms & Conditions': 'legal/terms-and-conditions.md'
