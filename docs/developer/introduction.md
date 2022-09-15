@@ -17,6 +17,7 @@ details page easily. Good for online classifieds or e-commerce websites without 
 ## What are the steps to integrate the iFrame?
 1. [Set up a vendor account](./setup-a-vendor-account.md)
 2. [Embed an escrow payments iframe into your website](./embed-escrow-iframe.md)
-2. [All about test accounts](./developer-test-accounts.md)
-2. [Instant Payment Notifications (IPN)](./payment-notifications.md)
-3. [Complete your KYC process and Go Live](./kyc-requirements.md)
+3. [All about test accounts](./developer-test-accounts.md)
+4. [Making a payment](./making-a-payment.md)
+5. [Instant Payment Notifications (IPN)](./payment-notifications.md)
+6. [Complete your KYC process and Go Live](./kyc-requirements.md)

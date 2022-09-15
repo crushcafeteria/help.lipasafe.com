@@ -46,6 +46,7 @@ nav:
       - 'Introduction': 'developer/introduction.md'
       - 'Setup a vendor account': 'developer/setup-a-vendor-account.md'
       - 'iFrame Integration': 'developer/embed-escrow-iframe.md'
+      - 'Making a payment': 'developer/making-a-payment.md'
       - 'Test Accounts': 'developer/developer-test-accounts.md'
       - 'Instant Payment Notifications (IPN)': 'developer/payment-notifications.md'
       - 'KYC & Go Live Requirements': 'developer/kyc-requirements.md'
