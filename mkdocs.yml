@@ -3,14 +3,11 @@ site_name: Lipasafe Help Center
 theme:
   name: material
 
-
 nav:
   - Home: 'index.md'
-  - Frequently Asked Questions: 'frequently-asked-questions.md'
-  - Overview:
-      - 'What is escrow?': 'overview/what-is-escrow.md'
-      - 'How does LipaSafe work?': 'overview/how-it-works.md'
-      - 'What can you buy with Lipasafe.com?': 'overview/what-can-you-buy.md'
+  - 'What is escrow?': 'overview/what-is-escrow.md'
+  - 'How does LipaSafe work?': 'overview/how-it-works.md'
+  - 'What can you buy with Lipasafe.com?': 'overview/what-can-you-buy.md'
 
   - Getting Started:
       - 'Signing up': 'accounts/signing-up.md'
@@ -18,13 +15,13 @@ nav:
       - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
       - 'Recover your account': 'accounts/reset-your-account.md'
 
-  - Using Lipasafe.com:
-      - 'A tour of the dashboard': 'using-lipasafe/a-tour-of-the-dashboard.md'
-      - 'Preparing for a transaction': 'using-lipasafe/preparing-for-a-transaction.md'
-      - 'Starting a transaction': 'using-lipasafe/creating-a-transaction.md'
-      - 'Seller: Accepting a transaction': 'using-lipasafe/accepting-a-transaction.md'
-      - 'Buyer: Depositing funds': 'using-lipasafe/depositing-funds.md'
-      - 'Adding delivery location': 'using-lipasafe/adding-delivery-location.md'
+#  - Using Lipasafe.com:
+  - 'A tour of the dashboard': 'using-lipasafe/a-tour-of-the-dashboard.md'
+  - 'Preparing for a transaction': 'using-lipasafe/preparing-for-a-transaction.md'
+  - 'Starting a transaction': 'using-lipasafe/creating-a-transaction.md'
+  - 'Seller: Accepting a transaction': 'using-lipasafe/accepting-a-transaction.md'
+  - 'Buyer: Depositing funds': 'using-lipasafe/depositing-funds.md'
+  - 'Adding delivery location': 'using-lipasafe/adding-delivery-location.md'
 
   - Dispute Resolution Process (DRP):
       - 'What is the dispute resolution process?': 'drp/what-is-dispute-resolution-process.md'
@@ -42,7 +39,7 @@ nav:
 #      - 'Reporting security issues': 'accounts/reporting-security-issues.md'
 
 #
-  - Escrow Developer API:
+  - Developer API:
       - 'Introduction': 'developer/introduction.md'
       - 'Setup a vendor account': 'developer/setup-a-vendor-account.md'
       - 'iFrame Integration': 'developer/embed-escrow-iframe.md'
@@ -51,6 +48,7 @@ nav:
       - 'Instant Payment Notifications (IPN)': 'developer/payment-notifications.md'
       - 'KYC & Go Live Requirements': 'developer/kyc-requirements.md'
 
+  - 'Frequently Asked Questions': 'frequently-asked-questions.md'
   - 'Prohibited goods and services': 'legal/prohibited-list.md'
   - 'Terms & Conditions': 'legal/terms-and-conditions.md'
   - 'Privacy Policy': 'legal/privacy-policy.md'

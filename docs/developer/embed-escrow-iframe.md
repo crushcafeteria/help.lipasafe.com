@@ -4,6 +4,8 @@ The Lipasafe allows you to use an iframe to embed the escrow payment page into y
 This allows the buyer to easily setup an Lipasafe escrow transaction  without ever leaving 
 your website. The user experience has also been optimized to reduce the number of payment steps.
 
+![Demo Shop](../images/demo-shop.png)
+
 ## How it works
 1. Website visitor (buyer) loads a product details page. Inside the page is an iFrame embedded 
 in showing the Lipasafe payment widget. This widget is the gateway to Lipasafe escrow service.
