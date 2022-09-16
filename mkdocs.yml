@@ -2,44 +2,73 @@ site_name: Lipasafe Help Center
 
 theme:
   name: material
+  logo: images/logo.png
+  features:
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - navigation.top
+
+  markdown_extensions:
+      - attr_list
+      - md_in_html
+
+  copyright: Copyright &copy; 2016 - 2020 Martin Donath
+
+  extra:
+      analytics:
+          provider: google
+          property: UA-75739331-8
+      homepage: https://lipasafe.com
+      consent:
+          title: Cookie consent
+          description: >-
+            We use cookies to recognize your repeated visits and preferences, as well
+            as to measure the effectiveness of our documentation and whether users
+            find what they're searching for. With your consent, you're helping us to
+            make our documentation better.
+      social:
+          - icon: fontawesome/brands/twitter
+            link: https://twitter.com/squidfunk
+
 
 nav:
-  - Home: 'index.md'
-  - 'What is escrow?': 'overview/what-is-escrow.md'
-  - 'How does LipaSafe work?': 'overview/how-it-works.md'
-  - 'What can you buy with Lipasafe.com?': 'overview/what-can-you-buy.md'
+  - 'What is Lipasafe?': 'index.md'
 
   - Getting Started:
+      - 'What is escrow?': 'overview/what-is-escrow.md'
+      - 'How does LipaSafe work?': 'overview/how-it-works.md'
+      - 'What can you buy with Lipasafe.com?': 'overview/what-can-you-buy.md'
       - 'Signing up': 'accounts/signing-up.md'
       - 'Logging in': 'accounts/logging-in.md'
       - 'Logging in with Facebook': 'accounts/logging-in-with-facebook.md'
       - 'Recover your account': 'accounts/reset-your-account.md'
+      - 'A tour of the dashboard': 'using-lipasafe/a-tour-of-the-dashboard.md'
+      - 'Preparing for a transaction': 'using-lipasafe/preparing-for-a-transaction.md'
+      - 'Starting a transaction': 'using-lipasafe/creating-a-transaction.md'
+      - 'Seller: Accepting a transaction': 'using-lipasafe/accepting-a-transaction.md'
+      - 'Buyer: Depositing funds': 'using-lipasafe/depositing-funds.md'
+      - 'Adding delivery location': 'using-lipasafe/adding-delivery-location.md'
+      - 'Frequently Asked Questions': 'frequently-asked-questions.md'
+      - 'Prohibited goods and services': 'legal/prohibited-list.md'
 
-#  - Using Lipasafe.com:
-  - 'A tour of the dashboard': 'using-lipasafe/a-tour-of-the-dashboard.md'
-  - 'Preparing for a transaction': 'using-lipasafe/preparing-for-a-transaction.md'
-  - 'Starting a transaction': 'using-lipasafe/creating-a-transaction.md'
-  - 'Seller: Accepting a transaction': 'using-lipasafe/accepting-a-transaction.md'
-  - 'Buyer: Depositing funds': 'using-lipasafe/depositing-funds.md'
-  - 'Adding delivery location': 'using-lipasafe/adding-delivery-location.md'
-
-  - Dispute Resolution Process (DRP):
-      - 'What is the dispute resolution process?': 'drp/what-is-dispute-resolution-process.md'
+  - Dispute Resolution:
+      - 'What is the dispute resolution process (DRP)?': 'drp/what-is-dispute-resolution-process.md'
       - 'Acceptable DRP proofs': 'drp/acceptable-proofs.md'
 
-#
-#  - Rewards Program:
-#      - 'How it works': 'rewards/the-lipasafe-rewards-program.md'
-#      - 'Terms and conditions': 'rewards/terms-and-conditions.md'
-#
-#  - Security Center:
-#      - 'Safety tips': 'legal/stay-safe.md'
-#      - 'Password Recommendations': 'accounts/reporting-security-issues.md'
-#      - 'Reporting fraud': 'accounts/logging-in.md'
-#      - 'Reporting security issues': 'accounts/reporting-security-issues.md'
+  #
+  #  - Rewards Program:
+  #      - 'How it works': 'rewards/the-lipasafe-rewards-program.md'
+  #      - 'Terms and conditions': 'rewards/terms-and-conditions.md'
+  #
+  #  - Security Center:
+  #      - 'Safety tips': 'legal/stay-safe.md'
+  #      - 'Password Recommendations': 'accounts/reporting-security-issues.md'
+  #      - 'Reporting fraud': 'accounts/logging-in.md'
+  #      - 'Reporting security issues': 'accounts/reporting-security-issues.md'
 
-#
-  - Developer API:
+  #
+  - Developer:
       - 'Introduction': 'developer/introduction.md'
       - 'Setup a vendor account': 'developer/setup-a-vendor-account.md'
       - 'iFrame Integration': 'developer/embed-escrow-iframe.md'
@@ -48,8 +77,10 @@ nav:
       - 'Instant Payment Notifications (IPN)': 'developer/payment-notifications.md'
       - 'KYC & Go Live Requirements': 'developer/kyc-requirements.md'
 
-  - 'Frequently Asked Questions': 'frequently-asked-questions.md'
-  - 'Prohibited goods and services': 'legal/prohibited-list.md'
-  - 'Terms & Conditions': 'legal/terms-and-conditions.md'
-  - 'Privacy Policy': 'legal/privacy-policy.md'
-  - 'Contact Information': 'legal/contacts.md'
+  - Legal:
+      - 'Terms & Conditions': 'legal/terms-and-conditions.md'
+      - 'Privacy Policy': 'legal/privacy-policy.md'
+      - 'Contact Information': 'legal/contacts.md'
+
+
+

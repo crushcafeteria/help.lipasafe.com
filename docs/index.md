@@ -1,14 +1,6 @@
 # Welcome to Lipasafe Help Center
 
-![The Dashboard](../images/banner.jpg)
-
-This website has been put together to act as a guide that will explain:-
-
-- How Lipasafe.com works
-- How to use the different features Lipasafe.com offers
-
-We have tried to keep it as simple as possible. If you cannot find something here, please reach out 
-using [the contact page.](https://lipasafe.com/contact)
+![The Dashboard](../images/banner_resized.jpg)
 
 ## What is Lipasafe.com?
 Lipasafe.com is a secure escrow payment service that reduces your risk of getting defrauded online 
